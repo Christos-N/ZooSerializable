@@ -21,3 +21,5 @@ To use this project, follow these steps:
 
   1. Launch the application in the console
   2. Use the menu options to perform various actions on the animal database
+
+Note: This project was created in 2020 and some aspects of it may be outdated.
